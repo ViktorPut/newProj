@@ -1,1 +1,1 @@
-<?php echo 'Slava pidr' ?>
+<?php echo 'Slava pidr'; ?>
