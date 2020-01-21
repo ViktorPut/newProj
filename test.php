@@ -1,1 +1,1 @@
-<?php ?>
+<?php echo 'Slava pidr' ?>
