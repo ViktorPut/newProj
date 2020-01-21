@@ -1,2 +1,1 @@
-<?php echo 'test'; ?>
-<?php echo 'vitya pidor'; ?>
+<?php echo 'Slava pidr'; ?>
